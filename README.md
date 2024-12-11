@@ -1,16 +1,15 @@
-## Hi there 👋
+## 💀 Hi there!
 
-<!--
-**tylarz/tylarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Kevin Antonio / Tylarz** and I do open source for fun.
+The projects you will find on this profile are just random things I've built at one point or another to make my life easier.
+Hopefully they can be useful to you as well!
 
-Here are some ideas to get you started:
+- To see the list of my most popular projects, [visit my website](https://tylarz.net/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💀 My social networks:
+- [Instagram](https://instagram.com/07.5.01)
+- [Telegram](https://t.me/tylarz)
+- [WhatsApp](https://wa.me/50768888888)
+- [Twitter-X](https://x.com/Tylarzzzzz)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=tylarz&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/tylarz)
