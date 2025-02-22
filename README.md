@@ -1,3 +1,10 @@
+___
+### 💀 My social networks:
+- [Instagram](https://instagram.com/07.5.01)
+- [Telegram](https://t.me/tylarz)
+- [WhatsApp](https://wa.me/94779982729)
+- [X](https://x.com/Tylarzzzzz)
+  
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
@@ -16,12 +23,5 @@ ___
 <p align="center">
 <img height="100" src="https://profile-counter.deno.dev/tylarz/count.svg" />
 </p><br>
-
-___
-### 💀 My social networks:
-- [Instagram](https://instagram.com/07.5.01)
-- [Telegram](https://t.me/tylarz)
-- [WhatsApp](https://wa.me/94779982729)
-- [X](https://x.com/Tylarzzzzz)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=tylarz&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/tylarz)
