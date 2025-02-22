@@ -18,10 +18,10 @@ ___
 </p><br>
 
 ___
-<!-- ### 💀 My social networks:
+### 💀 My social networks:
 - [Instagram](https://instagram.com/07.5.01)
 - [Telegram](https://t.me/tylarz)
 - [WhatsApp](https://wa.me/94779982729)
-- [X](https://x.com/Tylarzzzzz) 
- -->
-<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=tylarz&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/tylarz) -->
+- [X](https://x.com/Tylarzzzzz)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=tylarz&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/tylarz)
