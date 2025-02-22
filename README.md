@@ -24,4 +24,4 @@ ___
 <img height="100" src="https://profile-counter.deno.dev/tylarz/count.svg" />
 </p><br>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=tylarz&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/tylarz)
+<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=tylarz&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/tylarz) -->
