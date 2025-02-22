@@ -1,15 +1,27 @@
-## 💀 Hi there!
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
+  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=e34f26" />
+  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572b6" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
+</p>
 
-My name is **Kevin Antonio / Tylarz** and I do open source for fun.
-The projects you will find on this profile are just random things I've built at one point or another to make my life easier.
-Hopefully they can be useful to you as well!
+___
 
-- To see the list of my most popular projects, [visit my website](https://tylarz.net/).
+<p align="center">
+<a target="_blank" href="https://github.com/xcoders-teams/"><img alt="XCODERS TEAMS" src="https://img.shields.io/badge/XCODERS TEAMS%20-%23121011.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+</p>
 
-### 💀 My social networks:
+<p align="center">
+<img height="100" src="https://profile-counter.deno.dev/tylarz/count.svg" />
+</p><br>
+
+___
+<!-- ### 💀 My social networks:
 - [Instagram](https://instagram.com/07.5.01)
 - [Telegram](https://t.me/tylarz)
-- [WhatsApp](https://wa.me/50768888888)
-- [Twitter-X](https://x.com/Tylarzzzzz)
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=tylarz&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/tylarz)
+- [WhatsApp](https://wa.me/94779982729)
+- [X](https://x.com/Tylarzzzzz) 
+ -->
+<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=tylarz&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/tylarz) -->
