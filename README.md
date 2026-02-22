@@ -1,15 +1,31 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=tylarz.readme"> <sup>since 11/05/2020</sup>
+```bash
+$ whoami
+* 🚀 Hobbyist Developer
+* 🔐 Blockchain Enthusiast
+* 🤖 BOT Explorer
+* 📍 Location: Panama
+* 🌐 Web: tylarz.top
+```
 
-```csharp
-My Profile
--------------------------------
-Username: tylarz
-Aliase: Tylarz
-WhoamI: Normal People.
-Languages: JavaScript & TypeScript
-FavouriteAnime: 魔王学院の不適合者 (Maō Gakuin no Futekigōsha).
-Pronouns: He-Him.
-Location: Japan, Okinawa.
-FavouriteSong: ためらい (Hesitations) - Shiloh Dynasty.
-Hobbies: Watching Anime, Read Manga, and find bugs in web pages.
+```bash
+$ cat /etc/system-info
+[SYSTEM_PROFILE]
+├── 💻 Languages
+│   ├── JavaScript   ██████████████████░░  85%
+│   ├── Java         ███████████░░░░░░░░░  55%
+│   ├── Go           █████████░░░░░░░░░░░  45%
+│   └── Python       ██████░░░░░░░░░░░░░░  25%
+│
+├── 🛠️ Technologies
+│   ├── Backend:     Node.js, REST APIs, WebSockets
+│   ├── Bots:        WhatsApp Bots (Baileys)
+│   ├── Frontend:    HTML, CSS, JavaScript
+│   ├── Databases:   MongoDB, MySQL
+│   └── DevOps:      Linux, Docker (basic)
+│
+└── 🎯 Focus Areas
+    ├── WhatsApp Bots & Automation
+    ├── Backend Development
+    ├── Real-time Applications
+    └── Learning System Design
 ```
